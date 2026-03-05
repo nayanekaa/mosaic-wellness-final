@@ -1,21 +1,19 @@
 // Updated server.ts
 
-// Previous code... 
+function parseJDAI() {
+    // Some code...
+    const model = 'gemini-1.5-flash'; // updated from 'gemini-2.0-flash'
+    // Some more code...
+}
 
-// Replace all occurrences of model: 'gemini-2.0-flash' with model: 'gemini-1.5-flash'
-// This change affects lines 156, 172, and 198.
+function generateQuestionsAI() {
+    // Some code...
+    const model = 'gemini-1.5-flash'; // updated from 'gemini-2.0-flash'
+    // Some more code...
+}
 
-// Line 156
-model: 'gemini-1.5-flash',
-
-// Previous code...
-
-// Line 172
-model: 'gemini-1.5-flash',
-
-// Previous code...
-
-// Line 198
-model: 'gemini-1.5-flash',
-
-// Previous code...
+function evaluateCandidateAI() {
+    // Some code...
+    const model = 'gemini-1.5-flash'; // updated from 'gemini-2.0-flash'
+    // Some more code...
+}
